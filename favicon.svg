@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>The Alphabet Is the Box</title>
+  <rect width="64" height="64" fill="#03060d"/>
+  <g fill="none" stroke="#f4f3ef" stroke-width="2">
+    <path d="M10 23 23 11h31L42 23H10Z"/>
+    <path d="M10 23h32v31H10Z"/>
+    <path d="m42 23 12-12v31L42 54V23Z"/>
+  </g>
+  <circle cx="19" cy="38" r="2.5" fill="#ed56d2"/>
+  <circle cx="27" cy="38" r="2.5" fill="#55d9ff"/>
+  <circle cx="35" cy="38" r="2.5" fill="#ed56d2"/>
+</svg>

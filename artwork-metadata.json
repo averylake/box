@@ -1,0 +1,45 @@
+{
+  "name": "The Alphabet Is the Box, Emergence",
+  "artist": "Avery Lake",
+  "year": "2026",
+  "description": "As the idea grows, the container cannot hold it. The lid lifts, the letters disperse, and what remains is neither explained nor translated.",
+  "external_url": "https://box.averylakeofficial.com/",
+  "companion_work": "https://box.averylakeofficial.com/artwork-metadata-incubation.json",
+  "animation_url": "https://box.averylakeofficial.com/assets/video/the-alphabet-is-the-box.mp4",
+  "image": "https://box.averylakeofficial.com/assets/images/the-alphabet-is-the-box-cover.jpg",
+  "social_image": "https://box.averylakeofficial.com/assets/social/the-alphabet-is-the-box-og.png",
+  "media": {
+    "type": "video/mp4",
+    "format": "1:1",
+    "dimensions": "2160 x 2160 px",
+    "duration": "18 seconds",
+    "frame_rate": "24 fps",
+    "sound": "silent"
+  },
+  "adaptations": [
+    "4:5 exhibition and feed format",
+    "9:16 vertical format"
+  ],
+  "edition": {
+    "type": "unique",
+    "size": 1,
+    "number": 1,
+    "minting": "minted upon request"
+  },
+  "attributes": [
+    { "trait_type": "Medium", "value": "Single-channel digital animation" },
+    { "trait_type": "Duration", "value": "18 seconds" },
+    { "trait_type": "Sound", "value": "Silent" },
+    { "trait_type": "Conceptual field", "value": "Language, capture, AI, the uncaptured" },
+    { "trait_type": "Edition", "value": "1 of 1" }
+  ],
+  "technical_provenance": {
+    "concept_and_artwork": "Avery Lake",
+    "box_rendering": "Fading-trail canvas technique adapted from Pixel Explosion by hexapode on CodePen, used under the MIT License.",
+    "box_rendering_source": "https://codepen.io/hexapode/pen/EaegEy",
+    "orb_shader": "Liquid-orb shader adapted from Loading Orb by Tamino Martinius on CodePen, used under the MIT License.",
+    "orb_shader_source": "https://codepen.io/TaminoMartinius/pen/MYJEyer",
+    "license_record": "https://box.averylakeofficial.com/THIRD_PARTY_NOTICES.md"
+  },
+  "rights": "Artwork copyright 2026 The Art of Avery Lake. Third-party software components remain subject to their respective licenses."
+}
